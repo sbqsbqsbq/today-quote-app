@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958781292662",
+    "project_id": "quote-app-63655",
+    "storage_bucket": "quote-app-63655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958781292662:android:34c3717adc430c9970df57",
+        "android_client_info": {
+          "package_name": "com.example.todaysentenceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958781292662-00htminkuv7e9vij68bfnenruvkp7l4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcamo8yIGxpPYerYiI-2beu3QiTi5G6dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958781292662-00htminkuv7e9vij68bfnenruvkp7l4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
